@@ -8,6 +8,10 @@ It is an open-source distributed event streaming platform. It helps in building 
 
 Since Databases are not designed for streaming data, they are not suitable for real-time data processing. Kafka is designed for high-throughput, low-latency, and fault-tolerant data streaming. It can handle large volumes of data and can process it in real-time, making it ideal for building real-time data pipelines and streaming applications.
 
+## Kafka Architectural Diagram
+<img width="1024" height="544" alt="image" src="https://github.com/user-attachments/assets/59ad654b-8383-451d-87d9-bc06b26652ee" />
+
+
 ## How to Install and Run the Example
 
 ### Install NodeJS and NPM
